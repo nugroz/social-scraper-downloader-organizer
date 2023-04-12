@@ -1809,10 +1809,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"date-fns@npm:^2.17.0":
-  version: 2.19.0
-  resolution: "date-fns@npm:2.19.0"
-  checksum: 99ec34199c3a61cdb7fd27dcd68dd3c0c949ddfc34aa1daba9a6b2e0b5381bf42d8955d28ec2770f72eee429f5e7ab10fadba7b69108379d2545f003461d04f7
+"date-fns@npm:^2.29.3":
+  version: 2.29.3
+  resolution: "date-fns@npm:2.29.3"
+  checksum: 8/e01cf5b62af04e05dfff921bb9c9933310ed0e1ae9a81eb8653452e64dc841acf7f6e01e1a5ae5644d0337e9a7f936175fd2cb6819dc122fdd9c5e86c56be484
   languageName: node
   linkType: hard
 
@@ -4991,13 +4991,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"resolve@patch:resolve@^1.1.6#builtin<compat/resolve>, resolve@patch:resolve@^1.10.0#builtin<compat/resolve>, resolve@patch:resolve@^1.13.1#builtin<compat/resolve>, resolve@patch:resolve@^1.17.0#builtin<compat/resolve>, resolve@patch:resolve@^1.6.0#builtin<compat/resolve>, resolve@patch:resolve@^1.9.0#builtin<compat/resolve>":
+"resolve@patch:resolve@^1.1.6#~builtin<compat/resolve>, resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.13.1#~builtin<compat/resolve>, resolve@patch:resolve@^1.17.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.6.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.9.0#~builtin<compat/resolve>":
   version: 1.20.0
-  resolution: "resolve@patch:resolve@npm%3A1.20.0#builtin<compat/resolve>::version=1.20.0&hash=3388aa"
+  resolution: "resolve@patch:resolve@npm%3A1.20.0#~builtin<compat/resolve>::version=1.20.0&hash=00b1ff"
   dependencies:
     is-core-module: ^2.2.0
     path-parse: ^1.0.6
-  checksum: c4a515b76026806b5b26513fc7bdb80458c532bc91c02ef45ac928d1025585f93bec0b904be39c02131118a37ff7e3f9258f1526850b025d2ec0948bb5fd03d0
+  checksum: 8/bed00be983cd20a8af0e7840664f655c4b269786dbd9595c5f156cd9d8a0050e65cdbbbdafc30ee9b6245b230c78a2c8ab6447a52545b582f476c29adb188cc5
   languageName: node
   linkType: hard
 
@@ -5249,7 +5249,7 @@ __metadata:
     chalk: ^4.1.0
     clean-webpack-plugin: ^3.0.0
     conventional-changelog-cli: ^2.1.1
-    date-fns: ^2.17.0
+    date-fns: ^2.29.3
     delay: ^5.0.0
     dotenv: ^8.2.0
     eslint: ^7.20.0
@@ -5930,13 +5930,13 @@ typescript@4.1.5:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@4.1.5#builtin<compat/typescript>":
+"typescript@patch:typescript@4.1.5#~builtin<compat/typescript>":
   version: 4.1.5
-  resolution: "typescript@patch:typescript@npm%3A4.1.5#builtin<compat/typescript>::version=4.1.5&hash=cc6730"
+  resolution: "typescript@patch:typescript@npm%3A4.1.5#~builtin<compat/typescript>::version=4.1.5&hash=32657b"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 58cc7786be0f8485c124944883b1384287532e4867ec37f1fb5cb2811dbc10f7a9decccad89097f924043285f3515bfd8223c61dbb4f88af00b2d8dc2ef73207
+  checksum: 8/15f7630d7aa22b770f8e448c9f1b6f14a1d7b969008ef09475b9c377f908e2144ace8dac99ffe0c4830dc42a9970ca333533c9affd75035a17011da7fd03c423
   languageName: node
   linkType: hard
 
