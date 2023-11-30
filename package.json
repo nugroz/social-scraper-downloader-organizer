@@ -19,7 +19,7 @@
     "fs-extra": "^9.1.0",
     "listr2": "^3.3.3",
     "lodash": "^4.17.21",
-    "puppeteer": "^7.1.0",
+    "puppeteer": "^18.2.0",
     "sanitize-filename": "^1.6.3",
     "tiktok-scraper": "^1.4.16"
   },
