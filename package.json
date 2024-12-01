@@ -10,7 +10,7 @@
     "tiktok": "node dist/tiktok.bundle.js"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.7.8",
     "cac": "^6.7.2",
     "chalk": "^4.1.0",
     "date-fns": "^2.17.0",
